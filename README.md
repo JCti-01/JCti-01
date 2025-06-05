@@ -1,4 +1,5 @@
-# 👨‍💻 Juan de Oliveira Dev | Full Stack Developer
+# 👨‍💻 Juan de Oliveira 
+# Full Stack Developer
 
 🎯 Desenvolvedor Full Stack apaixonado por transformar ideias em soluções digitais com foco em performance, segurança e usabilidade.  
 🔧 Experiência em **Ruby on Rails**, com ambiente de desenvolvimento turboalimentado pelo **Laragon** no Windows.  
@@ -29,8 +30,4 @@
 ## 📫 Vamos nos conectar!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/juan-oliveira-78a887174/)  
-- 📧 Email: jcursoti@gmail.com
-
----
-
-> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+- 📧 [Email](jcursoti@gmail.com)
