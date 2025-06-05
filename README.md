@@ -30,4 +30,5 @@
 ## 📫 Vamos nos conectar!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/juan-oliveira-78a887174/)  
-- 📧 [Email](mailto:jcursoti@gmail.com?subject=Olá%20Juan&body=Gostaria%20de%20falar%20sobre%20seu%20trabalho%20como%20desenvolvedor.)
+[- 📧 [Email](mailto:jcursoti@gmail.com?subject=Olá%20Juan&body=Gostaria%20de%20falar%20sobre%20seu%20trabalho%20como%20desenvolvedor.)
+](https://mail.google.com/mail/?view=cm&fs=1&to=jcursoti@gmail.com&su=Olá%20Juan&body=Gostaria%20de%20falar%20sobre%20seu%20trabalho%20como%20desenvolvedor.)
