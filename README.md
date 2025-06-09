@@ -2,7 +2,7 @@
 # Full Stack Developer
 
 🎯 Desenvolvedor Full Stack apaixonado por transformar ideias em soluções digitais com foco em performance, segurança e usabilidade.  
-🔧 Experiência em **Ruby on Rails**, com ambiente de desenvolvimento turboalimentado pelo **Laragon** no Windows.  
+🔧 Experiência em **Ruby on Rails**, e em aprendizagem com **Laravel**.  
 🚀 Atualmente explorando IA, automações e microserviços.
 
 ---
@@ -21,7 +21,7 @@
 
 ---
 
-## ⚙️ Ambientes que eu amo trabalhar
+## ⚙️ Ambientes que eu gosto de trabalhar
 
 - 🧰 **Rails + PostgreSQL + Bootstrap**: para projetos rápidos, seguros e com boa aparência.
 - 💻 **Laragon**: para um ambiente local leve, versátil e com suporte completo a múltiplas stacks.
@@ -30,5 +30,3 @@
 ## 📫 Vamos nos conectar!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/juan-oliveira-78a887174/)  
-- 📧 [Email](https://mail.google.com/mail/?view=cm&fs=1&to=jcursoti@gmail.com&su=Olá%20Juan&body=Gostaria%20de%20falar%20sobre%20seu%20trabalho%20como%20desenvolvedor.)
-- 📧 [Abrir com aplicativo de e-mail](mailto:jcursoti@gmail.com?subject=Olá%20João&body=Gostaria%20de%20falar%20sobre%20seu%20trabalho%20como%20desenvolvedor.)
