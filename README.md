@@ -24,7 +24,7 @@
 ## ⚙️ Ambientes que eu gosto de trabalhar
 
 - 🧰 **Rails + PostgreSQL + Bootstrap**: para projetos rápidos, seguros e com boa aparência.
-- 💻 **Laragon**: para um ambiente local leve, versátil e com suporte completo a múltiplas stacks.
+- 💻 **Flutter + Firebase + Material Design**: para apps rápidos, cross-platform, com integração nativa e visual moderno.
 ---
 
 ## 📫 Vamos nos conectar!
